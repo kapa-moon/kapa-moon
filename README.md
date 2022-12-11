@@ -1,7 +1,10 @@
 <h1 align="left">Hi 👋, I'm <a href="" target="blank">
 Yuewen</a></h1>
 
-<a href="" target="blank">🌐 My Personal Website</a>
+- <a href="" target="blank">🌐 My Personal Website</a>
+- <a href="https://kapa-moon.github.io/real-time-space/" target="blank">🎹 JazzyCozy</a>
+- <a href="https://cims.nyu.edu/~yy2889/graphics/index.html" target="blank">🎨 Some Graphics</a>
+- <a href="http://164.90.254.52:3000/" target="blank">🍲 (Web)Decider</a>
 
 <br>
 <br>
