@@ -2,7 +2,7 @@
 <a href="https://kapa-moon.github.io/kapa-space/#/">Yuewen</a></h1>
 
 
-<h2><a href="https://kapa-moon.github.io/kapa-space/#/">My Website</a></h2>
+<h2><a href="https://yuewen.space/">My Website</a></h2>
 
 
 
