@@ -1,8 +1,8 @@
 <h1 align="left">Hi 👋 I'm
-<a href="https://kapa-moon.github.io/kapa-space/#/">Yuewen</a></h1>
+<a href="https://yuewen.io/">Yuewen</a></h1>
 
 
-<h2><a href="https://yuewen.space/">My Website</a></h2>
+<h2><a href="https://yuewen.space/">Previous projects</a></h2>
 
 
 
