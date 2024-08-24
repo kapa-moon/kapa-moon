@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋 I'm
-<a href="https://yuewen.io/">Yuewen</a></h1>
+<a href="https://yuewen.me/">Yuewen</a></h1>
 
 
 <h2><a href="https://yuewen.space/">Previous projects</a></h2>
