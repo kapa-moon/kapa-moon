@@ -2,7 +2,6 @@
 <a href="https://yuewen.me/">Yuewen</a></h1>
 
 
-<h2><a href="https://yuewen.space/">Previous projects</a></h2>
 
 
 
